@@ -5,4 +5,11 @@ ul.nav li {
   display: inline-block;
   }
 
+body {
+  margin: 40px;
+}
+
+.container {
+  margin: 50px;
+}
   

@@ -1,22 +1,22 @@
 ul.nav { 
   text-align: left;
-  }
+}
+
 ul.nav li { 
   display: inline;
-  }
+  font: small
+}
 
 body {
   margin: 40px;
 }
 
-.container {
-  padding: 50px;
+.alljobs {
+  padding-bottom: 50px;
+  padding-right: 50px;
+  padding-left: 50px;
 }
 
 .job__title {
   float:right;
-}
-
-.job__info {
-  text-align:left;
 }

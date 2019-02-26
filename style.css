@@ -18,5 +18,5 @@ body {
 }
 
 .job__info {
-  float:left;
+  text-align:left;
 }

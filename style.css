@@ -2,7 +2,7 @@ ul.nav {
   text-align: left;
   }
 ul.nav li { 
-  display: inline-block;
+  display: inline;
   }
 
 body {
@@ -12,4 +12,11 @@ body {
 .container {
   padding: 50px;
 }
-  
+
+.job__title {
+  float:right;
+}
+
+.job__info {
+  float:left;
+}

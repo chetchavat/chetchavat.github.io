@@ -23,5 +23,6 @@ body {
   padding-left: 50px;
 }
 .job__title {
+  display: flex;
   justify-content: flex-end;
 }

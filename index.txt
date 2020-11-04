@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Zachary Chetchavat | Data Person</title>
+    <meta name="title" content="Zachary Chetchavat | Data Person">
+    <meta name="description" content="Data Person in Austin, Texas">
+    <!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+    </head> 
+<body>
+      <p align="center">
+        <font size="6">Zachary Chetchavat</font>
+        <br> is an ATX-based Data Person, currently working at ShipStation. 
+        <br> He does not make websites.
+      </p>
+  <h3>Experience:</h3>
+  <dl class="alljobs">
+    <dt>ShipStation - Manager, Data Analytics</dt>
+      <dd>It didn't.</dd>
+    <dt>ShipStation - Data Analyst</dt>
+      <dd>I thought this would get me into data science</dd>
+    <dt>CreditCards.com - Senior Data Analyst</dt>
+      <dd>I got promoted.</dd>
+    <dt>CreditCards.com - Data Analyst</dt>
+      <dd>Titles are important.</dd>
+    <dt>CreditCards.com - Business Analyst</dt>
+      <dd>Every tech job was not like that.</dd>
+    <dt>SpareFoot - Data Analyst</dt>
+      <dd>I wondered if every tech job would be like this.</dd>
+    <dt>SpareFoot - Search Marketing Intern</dt>
+      <dd>Every office job was not like that.</dd>
+    <dt>Institute for Science, Technology, and Public Policy - Student Intern</dt>
+      <dd>I wondered if every office job would be like this.</dd>
+    <dt><a href="/blog/job_desc/gerlands_deli.html">Gerland's Grand Market - Deli Worker</a></dt>
+      <dd>I ate a lot of cold cuts.</dd>
+    <dt><a href="/blog/job_desc/bandj_scooper.html">Ben and Jerry's Town Center - Scooper</a></dt>
+      <dd>I ate a lot of ice cream.</dd>
+  </dl>
+</body>
+
+<footer>
+    <ul class=nav>
+      <li><a href="https://twitter.com/chetchavat">@chetchavat</a></li>
+      <li><a href="https://github.com/chetchavat">GitHub</a></li>
+      <li><a href="https://www.linkedin.com/in/zchetchavat/">LinkedIn</a></li>
+    </ul>
+</footer>
+</html>

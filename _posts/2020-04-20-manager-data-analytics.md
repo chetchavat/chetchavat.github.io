@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Manager, Data Analytics"
-date: 2020-04-01
+date: 2020-04-20
 company: "Auctane"
 ---
 

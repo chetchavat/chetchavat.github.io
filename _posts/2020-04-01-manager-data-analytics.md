@@ -1,7 +1,6 @@
 ---
-layout: job
+layout: post
 title: "Manager, Data Analytics"
-company: "Auctane"
 date: 2020-04-01
 ---
 

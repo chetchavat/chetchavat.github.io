@@ -1,5 +1,5 @@
 ---
-layout: job
+layout: post
 title: "Gerlands Grand Market: Deli Worker"
 date: 2007-06-12
 ---

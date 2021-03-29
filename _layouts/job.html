@@ -1,0 +1,9 @@
+---
+layout: default
+---
+<h1>{{ page.title }} @ {{ page.company }}</h1>
+<p class="meta">from {{ page.start_date | date_to_string }} to {{ page.end_date | date_to_string }}</p>
+
+<div class="job">
+  {{ content }}
+</div>

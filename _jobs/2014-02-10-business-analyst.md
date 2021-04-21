@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: job
 title: "Business Analyst"
 date: 2014-02-10
 company: "CreditCards.com"

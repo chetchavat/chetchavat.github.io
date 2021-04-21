@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: job
 title: "Deli Worker"
 date: 2007-06-12
 company: "Gerland's Grand Market"

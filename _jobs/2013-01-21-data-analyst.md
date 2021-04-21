@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: job
 title: "Data Analyst"
 date: 2013-01-21
 company: "Sparefoot"

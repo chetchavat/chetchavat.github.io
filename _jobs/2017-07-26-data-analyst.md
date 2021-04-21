@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: job
 title: "Data Analyst"
 date: 2017-07-26
 company: "ShipStation"

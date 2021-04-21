@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: job
 title: "SEO Intern"
 date: 2012-08-16
 company: "Sparefoot"

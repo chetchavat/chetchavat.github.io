@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: job
 title: "Manager, Data Analytics"
 date: 2020-04-20
 company: "Auctane"
 ---
 
-This is my current job.
+This is my first management job.
